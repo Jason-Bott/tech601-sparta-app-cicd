@@ -6,3 +6,4 @@
 * uses Node JS v20
 * with key pair tested
 * with webhook tested
+* with automatic merging tested
